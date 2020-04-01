@@ -5,6 +5,7 @@ master
 ------
 
 * Fix RouterAwareTrait for route with host restriction
+* Add helpers for maildev
 
 v0.2.0
 ------
